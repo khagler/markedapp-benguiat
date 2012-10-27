@@ -1,0 +1,3 @@
+This is a custom style for [Marked](http://markedapp.com/) based on the Custom CSS Example file included in the app. It uses Benguiat for body text and Benguiat Gothic (a sans-serif version) for headings, and will not be of any use if you don't have the `Benguiat Pro ITC` and `ITC Benguiat Gothic Std` font families installed.
+
+The [Marked Extras](http://markedapp.com/index.html#extras) page has instructions on how to install custom styles.
